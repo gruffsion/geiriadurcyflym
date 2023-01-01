@@ -1,6 +1,4 @@
-Geiriadur syml wedi'w greu gyda bas data Kaggle.
-Bwriad y prosiect yma oedd dysgu am ddata JSON, Github a 
-
+# geiriadurcyflym
 
 Problemau -
 Geiriau byr yn ymddangos o fewn geiriau hirach tra'n chwilio
