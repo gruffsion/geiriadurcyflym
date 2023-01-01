@@ -9,6 +9,17 @@ body{
     margin: 0.5rem;
 }
 
+h1{
+    opacity:80%;
+}
+
+@media only screen and (max-width: 400px) {
+    /* For mobile phones: */
+    [class*="container"] {
+      width: 100%;
+    }
+  }
+
 nav ul{
     background-color: rgb(255, 255, 255);
     height: 83vh;
