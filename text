@@ -1,0 +1,10 @@
+Geiriadur syml wedi'w greu gyda bas data Kaggle.
+Bwriad y prosiect yma oedd dysgu sut i drîn data JSON.
+
+
+Problemau -
+Geiriau byrrach yn ymddangos o fewn geiriau hirach
+Chwilio ddim yn adnabod geiriau gyda tô bach.
+Rhai geiriau lluosog amlwg ddim yn ydmdangos e.e 'llyfrau'
+Ddim yn darganfod geiriau Saesneg sy'n dechrau â llythyren fawr Cardiff
+Rhai geiriau Saesneg yn ymddangos gydag underscore
