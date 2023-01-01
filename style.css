@@ -60,6 +60,7 @@ li:nth-child(odd) {
 
 footer {
     position: fixed;
+    font-size: 1rem;
     bottom: 0%;
     width: 100%;
     background-color: white;
