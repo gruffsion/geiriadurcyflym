@@ -1,5 +1,5 @@
 Geiriadur syml wedi'w greu gyda data Kaggle.
-Bwriad y prosiect yma oedd dysgu am ddata JSON, Github a 
+Bwriad y prosiect yma oedd dysgu am Javascript a trîn data JSON. 
 
 
 Problemau
